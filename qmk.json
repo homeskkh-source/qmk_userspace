@@ -1,7 +1,7 @@
 {
     "userspace_version": "1.0",
     "build_targets": [
-        ["bastardkb/charybdis/4x6/splinktegrated_rev1", "kbeemo"],
-        ["bastardkb/charybdis/4x6_left/splinktegrated_rev1", "kbeemo"]
+        ["bastardkb/charybdis/4x6/splinktegrated_rev1", "vendor"],
+        ["bastardkb/charybdis/4x6_left/splinktegrated_rev1", "vendor"]
     ]
 }
